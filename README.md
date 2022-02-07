@@ -1,9 +1,15 @@
-### Hi there! My name is Kaushik 👋
+### Hi there 👋, My name is Kaushik Chowdhury
 
-- 🔭 I’m currently working a freelance consultant in AI ML.
-- 💬 Ask me about ML and AI Engineering.
-- 😄 Pronouns: He/His
+I’m based out of India and work as a freelance consultant in Machine Learning. I am a full-stack Python developer and looking forward to contribute in open source.
 
-<img src="https://github-readme-stats.vercel.app/api?username=KaushikChowdhury&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+Skills: PYTHON / NLP / VISION / DJANGO / PYSPARK
 
-<!-- https://github-readme-stats.vercel.app/api?username=KaushikChowdhury&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 -->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KaushikChowdhury)       
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kaushikchowdhury//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaushikChowdhury)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KaushikChowdhury&show_icons=true&count_private=true)  
+
+![Profile views](https://gpvc.arturio.dev/KaushikChowdhury)  
