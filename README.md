@@ -1,4 +1,4 @@
-### Hi there!  👋
+### Hi there! My name is Kaushik 👋
 
 - 🔭 I’m currently working a freelance consultant in AI ML.
 - 💬 Ask me about ML and AI Engineering in Big Data Space
