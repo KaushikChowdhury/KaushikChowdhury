@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Kaushik Chowdhury
 
-I’m based out of India and work as a freelance consultant in Machine Learning. I am a full-stack Python developer and looking forward to contribute in open source.
+I’m based out of India and work as a freelance consultant in Machine Learning and am a full-stack Python developer.
 
 Skills: PYTHON / NLP / VISION / DJANGO / PYSPARK
 
