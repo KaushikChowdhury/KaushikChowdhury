@@ -8,4 +8,6 @@ Skills: PYTHON / NLP / VISION / DJANGO / PYSPARK
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaushikChowdhury)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/KaushikChowdhury)  
+![Profile views](https://gpvc.arturio.dev/KaushikChowdhury)
+
+![](https://komarev.com/ghpvc/?KaushikChowdhury)
