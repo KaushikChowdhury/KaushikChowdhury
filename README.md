@@ -10,4 +10,4 @@ Skills: PYTHON / NLP / VISION / DJANGO / PYSPARK
 
 ![Profile views](https://gpvc.arturio.dev/KaushikChowdhury)
 
-![](https://komarev.com/ghpvc/?KaushikChowdhury)
+![](https://komarev.com/ghpvc/?username=KaushikChowdhury)
