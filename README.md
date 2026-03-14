@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Kaushik Chowdhury
+### Hi there 👋,
 
 Skills: PYTHON / NLP / VISION / DJANGO / PYSPARK
 
